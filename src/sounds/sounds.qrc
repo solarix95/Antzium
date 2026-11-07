@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file alias="cartoon-splat.wav">445117__breviceps__cartoon-splat.wav</file>
+        <file alias="spider-bite.wav">353067__jofae__bite-cartoon-style.wav</file>
+        <file alias="bomb-explosion.wav">792520__modusmogulus__retro-small-bomb-explosion.wav</file>
+        <file alias="colony-death.wav">475347__fupicat__videogame-death-sound.wav</file>
+        <file alias="colony-founded.wav">607207__fupicat__congrats.wav</file>
+        <file alias="queen-spawn.wav">422730__grubzyy__s_spawn_whoosh.wav</file>
+        <file alias="ambient-thunder-1.wav">534023__fission9__thunderclap.wav</file>
+        <file alias="ambient-thunder-2.wav">581124__fission9__distant-thunder-3.wav</file>
+        <file alias="ambient-thunder-3.wav">672776__danilosfx__thunder-clap.wav</file>
+        <file alias="ambient-cricket-1.wav">755751__profquad__cricket.wav</file>
+        <file alias="ambient-bird-1.wav">695297__zott820__white-crowned-sparrow-chirp.wav</file>
+        <file alias="ambient-cricket-2.wav">400663__sojan__cricket-chirp.wav</file>
+        <file alias="ambient-bird-2.wav">233255__alegemaate__single-bird-chirp.wav</file>
+    </qresource>
+</RCC>
